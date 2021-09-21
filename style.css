@@ -1,3 +1,5 @@
 body {
+      background-image: src(myBackground);
       background-color:lightgreen;
       }
+background-image: src(myBackground);
