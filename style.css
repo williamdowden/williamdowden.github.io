@@ -1,14 +1,9 @@
 body {
       background-color:lightblue;
+      <div class="content">
+      </div>
     } 
 .content {
   max-width: 500px;
   margin: auto;
 }
-<body>
-
-<div class="content">
-  <!-- Page content -->
-</div>
-
-</body>
