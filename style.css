@@ -1,5 +1,7 @@
-.about { 
+#about { 
       background-image: url(https://williamdowden.github.io/myBackground.jpg);
       }
 
-
+body {
+      background-color:lightgreen;
+      }
